@@ -1,2 +1,5 @@
 # hello-world
-创建一个新的仓库
+
+Hi Humans!
+
+Hubot here,I like Node.js.
